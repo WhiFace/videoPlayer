@@ -1,6 +1,15 @@
-Custom video player:
-This is a simple custom video player using the html video player api. 
-use this anywhere in your project. or customize to your liking. 
+## Custom Video Player
+
+Custom video player using the HTML5 video element and it's JavaScript API with a custom design
+
+## Project Specifications
+
+- Display custom video player styled with CSS
+- Play/pause
+- Stop
+- Video progress bar
+- Set progress bar time
+- Display time in mins and seconds
 
 
 Project Link:
